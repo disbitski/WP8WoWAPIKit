@@ -25,6 +25,7 @@ Windows Phone App
   - Web Browser Control
   - Web Tasks
   - Calling HTML5/JS from C#
+  - Small and Medium Tiles
 
 ###Requirements
 
