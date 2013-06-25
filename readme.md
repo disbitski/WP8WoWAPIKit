@@ -64,5 +64,4 @@ Microsoft and I shall not be liable for any direct, indirect or consequential da
 ###v1.0.0 - Updated to point to new license file
 
 
-  [1]: https://raw.github.com/apimash/StarterKits/master/APIMASH_WorldOfWarcraft_StarterKit/wowapikit_1366x768.png "Windows 8 Wow API Starter Kit"
- 
+  [1]: https://raw.github.com/disbitski/WP8WoWAPIKit/AllRealms.png "All realms"
