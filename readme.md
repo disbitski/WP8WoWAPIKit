@@ -11,7 +11,8 @@ This Kit is for educational and entertainment purposes only.  World of Warcraft 
 Blizzard Entertainment® is the copyright holder to all World of Warcraft content and images used in this application.
 Blizzard Entertainment® is the owner of the World of Warcraft API which can be found at http://blizzard.github.io/api-wow-docs/.
 
-![alt text][1]
+![alt text][1]![alt text][2]![alt text][3]
+![alt text][4]
 ###Features
 WoW API
   - Realm Status (individual)
@@ -64,5 +65,8 @@ Microsoft and I shall not be liable for any direct, indirect or consequential da
 ###v1.0.0 - Updated to point to new license file
 
 
-  [1]: https://raw.github.com/disbitski/WP8WoWAPIKit/master/AllRealms.png "Windows 8 Wow API Starter Kit"
+  [1]: https://raw.github.com/disbitski/WP8WoWAPIKit/master/AllRealms.png "All Realms"
+  [2]: https://raw.github.com/disbitski/WP8WoWAPIKit/master/SingleRealmMenu.png "Single Page with AppBar"
+  [3]: https://raw.github.com/disbitski/WP8WoWAPIKit/master/About.png "About"
+  [4]: https://raw.github.com/disbitski/WP8WoWAPIKit/master/settings.png "Settings"
  
