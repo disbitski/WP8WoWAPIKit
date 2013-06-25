@@ -44,7 +44,7 @@ Step 1. All of the Blizzard World of Warcraft API's do not require a developer k
 
 Step 2. Currently only Realm Status is implemented.  Adding additional functionality such as character or pvp info is as easy as calling the appropriate wow api (found in http://blizzard.github.io/api-wow-docs/) and then wrapping it in a function the same way realm status was done in /js/wowapi.js.
 
-Step 3. Once you have data returning you should load the results into a Web Browser Control using divs similr to /html/index.html.  
+Step 3. Once you have data returning you should load the results into a Web Browser Control using divs similar to /html/index.html.  
 
 
 ##DISCLAIMER: 
