@@ -1,7 +1,7 @@
 ﻿#APIMASH Windows Phone 8 World of Warcraft API Kit
 ##Date: 6.25.2013
 ##Version: v1.0.0
-##Author(s): David Isbitksi
+##Author(s): David Isbitski
 ##URL: http://github.com/disbitski/WP8WoWAPIKit
 
 ----------
